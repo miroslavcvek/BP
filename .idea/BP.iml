@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/ACDC_Diagnosis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/data_loaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/data_preprocess" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/estimators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/helpers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automated-Cardiac-Segmentation-and-Disease-Diagnosis/pretrained_models_weight" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
